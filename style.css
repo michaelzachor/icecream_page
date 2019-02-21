@@ -1,0 +1,40 @@
+.helfont {
+	font-family: helvetica;
+}
+
+#pinkbgd {
+	width: 500px;
+	color: white;
+	background-color: #ff60fc;
+	font-size: 25px;
+}
+
+#orangebgd {
+	width: 500px;
+	color: white;
+	background-color: #e89a14;
+	font-size: 25px;
+}
+
+#brownbgd {
+	width: 500px;
+	color: white;
+	background-color: #876b18;
+	font-size: 25px;
+}
+
+.links a{
+	width: 220px;
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+}
+
+.links a:hover {
+	color: white;
+	background-color: black;
+}
+
+nav ul {
+	list-style-type: none;
+}
