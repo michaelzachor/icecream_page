@@ -35,6 +35,16 @@
 	background-color: black;
 }
 
+#image1 {
+	height: 150px;
+	width: 150px;
+}
+
+#image2 {
+	height: 150px;
+	width: 300px;
+}
+
 nav ul {
 	list-style-type: none;
 }
