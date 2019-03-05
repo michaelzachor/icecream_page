@@ -1,0 +1,65 @@
+nav {
+	text-align: center;
+	background-color: purple;
+	position: fixed;
+	height: 50px;
+	width: 100%;
+	opacity: 0.4;
+}
+
+nav li {
+	display: inline;
+	padding: 50px;
+}
+
+nav a {
+	color: lavender;
+	font-size: 25px;
+}
+
+nav li a:hover{	
+	background-color: lavender;
+	color: black;
+}
+
+#sixty {
+	background-color: grey;
+	height: 200px;
+	padding: 20px;
+	font-size: 25px;
+}
+
+#seventy {
+	background-color: lightgrey;
+	height: 290px;
+	padding: 20px;
+	font-size: 25px;
+}
+
+#eighty {
+	background-color: grey;
+	height: 320px;
+	padding: 20px;
+	font-size: 25px;
+}
+
+#ninety {
+	background-color: lightgrey;
+	height: 450px;
+	padding: 20px;
+	font-size: 25px;
+}
+
+#thousand {
+	background-color: grey;
+	height: 260px;
+	padding: 20px;
+	font-size: 25px;
+}
+
+#ten {
+	background-color: lightgrey;
+	height: 330px;
+	padding: 20px;
+	font-size: 25px;
+}
