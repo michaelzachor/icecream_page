@@ -24,42 +24,42 @@ nav li a:hover{
 
 #sixty {
 	background-color: grey;
-	height: 200px;
+	height: 230px;
 	padding: 20px;
 	font-size: 25px;
 }
 
 #seventy {
 	background-color: lightgrey;
-	height: 290px;
+	height: 340px;
 	padding: 20px;
 	font-size: 25px;
 }
 
 #eighty {
 	background-color: grey;
-	height: 320px;
+	height: 350px;
 	padding: 20px;
 	font-size: 25px;
 }
 
 #ninety {
 	background-color: lightgrey;
-	height: 450px;
+	height: 480px;
 	padding: 20px;
 	font-size: 25px;
 }
 
 #thousand {
 	background-color: grey;
-	height: 260px;
+	height: 300px;
 	padding: 20px;
 	font-size: 25px;
 }
 
 #ten {
 	background-color: lightgrey;
-	height: 330px;
+	height: 360px;
 	padding: 20px;
 	font-size: 25px;
 }
