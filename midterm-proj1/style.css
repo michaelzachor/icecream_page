@@ -1,0 +1,112 @@
+#mainlist{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	list-style-type: none;
+}
+
+.navbar{
+	list-style-type: none;
+}
+
+#home{
+	font-size: 35px;
+	font-weight: 10px;
+}
+
+.navitem{
+	display: inline;
+}
+
+.genre{
+	font-size: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin: auto;
+}
+
+#homebody{
+	background: url(images/BeFunky-collage.jpg) no-repeat center fixed;
+	background-size: cover;
+}
+
+.fixedlist{
+	position: fixed;
+	list-style-type: none;
+	text-decoration: none;
+	color: black;
+	padding-left: 0;
+	font-size: 26px;
+}
+
+.bullets{
+	list-style-type: circle;
+	font-size: 19px;
+}
+
+a{
+	list-style-type: none;
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	color: white;
+}
+
+.pics{
+	width: 150px;
+	height: 150px;
+	transition: 0.5s;
+}
+
+.pics:hover{
+	width: 158px;
+	height: 158px;
+}
+
+figcaption{
+	font-size: 10px;
+	text-align: center;
+}
+
+figure{
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+
+.figures{
+	font-size: 12px;
+	padding-left: 230px;
+	padding-right: 230px;
+}
+
+.maindescription{
+	position: relative;
+	margin: auto;
+	max-width: 600px;
+	padding-left: 230px;
+	padding-right: 230px;
+}
+
+.maintitle{
+	position: relative;
+	margin: auto;
+}
+
+.pictures{
+	background-color: #CCCCFF;
+	position: relative;
+	margin-left: 225px;
+	margin-right: 225px;
+	padding: 10px;
+	border: 5px solid black;
+	border-radius: 10px;
+}
+
+body {
+	font-family: Futura;
+	background-color: #a36fac;
+}
