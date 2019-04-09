@@ -110,3 +110,43 @@ body {
 	font-family: Futura;
 	background-color: #a36fac;
 }
+
+@media only screen and (max-width: 500px){
+	.maindescription{
+		position: relative;
+		margin: auto;
+		padding-right: 2px;
+		padding-left: 190px;
+		font-size: 14px;
+	}
+
+	.pictures{
+		position: relative;
+		/*margin: auto;*/
+		margin-left: 190px;
+		margin-right: 5px;
+		max-width: 150px;
+		min-width: 150px;
+	}
+
+	.figures{
+		padding-right: 2px;
+		padding-left: 190px;
+	}
+}
+
+@media only screen and (min-width: 501px) and (max-width: 1090px){
+	.maindescription{
+		padding-right: 2px;
+		max-width: 900px;
+	}
+
+	.pictures{
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: space-around;
+		max-width: 650px;
+		min-width: 150px;
+		margin-right: 2px;
+	}
+}
