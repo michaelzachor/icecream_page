@@ -1,0 +1,26 @@
+body{
+	background-color: purple;
+	margin:70px;
+}
+
+#head{
+	background-color: beige;
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Times';
+}
+
+.row{
+	background-color: beige;
+}
+
+#gap{
+	height: 10px;
+}
+
+img{
+	height: 350px;
+	width: 350px;
+	display: block;
+	margin: auto;
+}
