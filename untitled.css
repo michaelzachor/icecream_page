@@ -1,0 +1,19 @@
+.textOverImage{
+	background-image: url("https://d1ia71hq4oe7pn.cloudfront.net/og/75335251-1200px.jpg");
+	position:relative;
+	width:200px;
+	height:200px;
+	float:left;
+	margin:4px;
+	background-size:100%;
+}
+
+.textOverImage:hover{
+	background-size:110%;
+}
+
+.textOverImage:after{
+	overflow:hidden;
+	position: absolute;
+	content:attr(data-text);
+}
