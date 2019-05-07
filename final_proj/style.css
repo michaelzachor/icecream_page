@@ -1,0 +1,256 @@
+#titlepage{
+	background-color: black;
+	color: #edc607;
+}
+
+.neon1{
+	text-align: center;
+	font-size: 85px;
+	font-family: La_Patio_Script;
+	color: white;
+}
+
+#in{
+	font-size: 40px;
+}
+
+.title{
+	font-family: 'Lato', sans-serif;
+	font-size: 50px;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 50px;
+	margin-right: 180px;
+	margin-left: 180px;
+}
+
+#supreme{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	background-image:url('supreme.jpg');
+	background-color: black;
+	background-size: 100%;
+	color: white;
+}
+
+.flex-container{
+	display: flex;
+	flex-direction: column;
+}
+
+#quote{
+	width: 500px;
+	height: 160px;
+	position: absolute;
+	top: 350px;
+	left: 100px;
+	background-color: rgba(0, 0, 0, .5);
+	font-family: 'Lato', sans-serif;
+	font-size: 25px;
+	color: white;
+	box-shadow: 10px 10px black;
+	padding: 5px;
+}
+
+.neon2{
+	text-align: center;
+	font-size: 60px;
+	font-family: La_Patio_Script;
+	text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #ce4e35, 0 0 30px #ce4e35, 0 0 40px #ce4e35, 0 0 55px #ce4e35, 0 0 75px #ce4e35;
+	color: white;
+}
+
+#back-overlay1{
+	background-color: rgb(255,150,84,.9);
+	height: 90%;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#head1{
+	text-align: center;
+}
+
+.paragraphs{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
+	font-family: 'Lato', sans-serif;
+	position: relative;
+	left: 200px;
+}
+
+.content{
+	padding-top: 10px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+	display: flex;
+	flex-direction: column;
+	align-items: space-around;
+	min-width: 100px;
+	max-width: 250px;
+	height: 470px;
+}
+
+.content-title{
+	padding-top: 11px;
+	padding-bottom: 11px;
+	font-size: 20px;
+	margin-bottom: 37.5px;
+	margin-top: 7.5px;
+	height: 50px;
+}
+
+.content-desc{
+	padding-top: 11px;
+	padding-bottom: 11px;
+	font-size: 17px;
+	margin-top: 9px;
+	margin-bottom: 20.5px;
+	height: 50px;
+
+}
+
+img{
+	width: 40px;
+	height: 40px;
+}
+
+.p1{
+	position: absolute;
+	top: 10px;
+	left: 715px;
+}
+
+.p2{
+	position: absolute;
+	top: 10px;
+	left: 728px;
+}
+
+.p3{
+	position: absolute;
+	top: 27px;
+	left: 730px;
+}
+
+.p4{
+	position: absolute;
+	top: 38px;
+	left: 729px;
+}
+
+.p5{
+	position: absolute;
+	top: 42px;
+	left: 708px;
+}
+
+.p6{
+	position: absolute;
+	top: 39px;
+	left: 692px;
+}
+
+.p7{
+	position: absolute;
+	top: 19px;
+	left: 692px;
+	
+}
+
+.p8{
+	position: absolute;
+	top: 9px;
+	left: 692px;
+}
+
+.pizza1{
+	position: absolute;
+	left: -90px;
+}
+
+.pizza2{
+	position: absolute;
+	top: 110px;
+	left: -90px;
+}
+
+.pizza3{
+	position: absolute;
+	top: 196px;
+	left: -90px;
+}
+
+.pizza4{
+	position: absolute;
+	top: 290px;
+	left: -90px;
+}
+
+.pizza5{
+	position: absolute;
+	top: 380px;
+	left: -90px;
+}
+
+#fresh{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	background-image:url('freshhot.jpg');
+	background-color: black;
+	background-size: 100%;
+	color: black;
+}
+
+#back-overlay2{
+	background-color: rgb(255,213,7,.9);
+	height: 90%;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#head2{
+	text-align: center;
+}
+
+#jay{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	background-image:url('jayst.jpg');
+	background-color: black;
+	background-size: 100%;
+	color: white;
+}
+
+.neon3{
+	text-align: center;
+	font-size: 60px;
+	font-family: La_Patio_Script;
+	text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #edc607, 0 0 30px #edc607, 0 0 40px #edc607, 0 0 55px #edc607, 0 0 75px #edc607;
+	color: white;
+}
+
+#back-overlay3{
+	background-color: rgb(186,0,31,.9);
+	height: 90%;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#head3{
+	text-align: center;
+}
+
+@font-face{
+	font-family:La_Patio_Script;
+	src:url('La_Patio_Script.otf');
+}
